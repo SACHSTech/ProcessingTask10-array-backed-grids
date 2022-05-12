@@ -1,8 +1,7 @@
-# Processing Task ?? - <Task Name>
+# Processing Task 10 - Array Backed Grids
 
 ## Learning Objectives
-In this task, you will learn about:
-
+In this task, you will learn and demonstrate how to create an interactive grid with data contained within a two-dimenstional array.
 
 
 ## Step 1 - Lesson
