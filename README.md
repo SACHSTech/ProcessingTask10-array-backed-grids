@@ -8,7 +8,7 @@ In this task, you will learn and demonstrate how to create an interactive grid w
 You will begin the task by carefully following the instructions set in the [Array-Backed Grids tutorial](Array_BackedGridsTheBasics.md). Completing this tutorial will cover the Level 2 Expectations of this task.  
 
 ## Step 2 - Task
-Demonstrate your learning objectives by 
+Demonstrate your learning objectives by fulfulling the expectations in the levels below.
 
 ### LEVEL 2
 Complete the [Array-Backed Grids tutorial](Array_BackedGridsTheBasics.md)
